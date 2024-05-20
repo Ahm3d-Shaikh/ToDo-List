@@ -17,6 +17,6 @@ Follow the below steps to run the application on your end:
    (b) ROOT  
    (c) PASSWORD  
    (d) DATABASE  
-4- Go to the src directory and run ```ng build --configuration``` product to build your project.  
+4- Go to the src directory and run ```ng build --configuration production``` to build your project.  
 5- Go to the backend directory and run ```node server.js``` command to run your server.  
 6- You can now use the application by navigating to the URL: http://localhost:3000/  
